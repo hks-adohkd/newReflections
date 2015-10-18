@@ -9,14 +9,27 @@ What value do you think it offers?
 	staging area differs from working directory in that it only holds the initial BUNDLES
 	of RELATED files to track together in order to commit them later.
 	it is necessary to commit changes to related files with a ONE logical change
+	//modified
+	the staging area holds the changed files before commiting them its like a buffer
+	so you can check the modified files in it before commiting them
+	also it is used to make sure you have one commit per logical change
 	
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+	
+		you only add the files related to that logical change to the staging area
+		then you commit these files.
+	
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	when you want to produce many different versions of the product like for another languages
+	and one for adding a new feature then you may want to split into branches, and if succeeded
+	you might be able to merge them later
+
 How do the diagrams help you visualize the branch structure?
+	
+	I don't know what to say it just helps!
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
