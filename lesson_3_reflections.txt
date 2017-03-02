@@ -12,3 +12,8 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	to keep track of the last known position in repository and to help github merge
 	your branch with the repository branch
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	you make a branch then make your changes push the branch into the github repository and then make
+	a pull request.
+	easy to make changes in github but harder if there are conflicts between the pull request.
